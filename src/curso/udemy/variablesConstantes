@@ -1,0 +1,16 @@
+package curso.udemy
+
+fun main(args: Array< String> ) {
+
+println ( "Hola mundo")
+}
+
+var edadFirulais = 18
+
+edadFirulais = 15
+
+var nombreFirulais = "Pinky Firulais"
+
+nombreFirulais = "Juan"
+
+println(nombreFirulais)
