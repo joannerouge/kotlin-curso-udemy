@@ -2,7 +2,7 @@ package curso.udemy
 
 fun main ( args: Array<String>){
 
-    val calificacion = 3
+    val calificacion = 5
     var reseña :String
 
     when(calificacion){
